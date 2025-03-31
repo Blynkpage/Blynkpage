@@ -1,6 +1,6 @@
 ## Welcome to my profile! 👋
 
-##I'm currently learning C++!
+I'm currently learning C++!
 
 <!--
 **Blynkpage/Blynkpage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
